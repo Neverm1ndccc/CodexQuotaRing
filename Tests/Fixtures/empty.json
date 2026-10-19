@@ -1,0 +1,9 @@
+{
+  "result": {
+    "rateLimits": {
+      "primary": null,
+      "secondary": null,
+      "limitId": "codex"
+    }
+  }
+}

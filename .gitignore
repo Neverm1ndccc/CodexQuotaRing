@@ -1,0 +1,13 @@
+.build/
+build/
+dist/
+.DS_Store
+*.xcuserstate
+xcuserdata/
+
+# Local development notes and caches
+task_plan.md
+findings.md
+progress.md
+__pycache__/
+*.pyc
